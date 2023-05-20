@@ -1,0 +1,20 @@
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\bin\Debug\net7.0-windows\QR CODE.exe
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\bin\Debug\net7.0-windows\QR CODE.deps.json
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\bin\Debug\net7.0-windows\QR CODE.runtimeconfig.json
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\bin\Debug\net7.0-windows\QR CODE.dll
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\bin\Debug\net7.0-windows\QR CODE.pdb
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\bin\Debug\net7.0-windows\QRCoder.dll
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.csproj.AssemblyReference.cache
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR_CODE.Form1.resources
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.csproj.GenerateResource.cache
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.AssemblyInfoInputs.cache
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.AssemblyInfo.cs
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.csproj.CoreCompileInputs.cache
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.csproj.CopyComplete
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.dll
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\refint\QR CODE.dll
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.pdb
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR CODE.genruntimeconfig.cache
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\ref\QR CODE.dll
+C:\Users\kiral\OneDrive\Masaüstü\MY WORK\C# 2\QR CODE\QR CODE\obj\Debug\net7.0-windows\QR_CODE.Properties.Resources.resources

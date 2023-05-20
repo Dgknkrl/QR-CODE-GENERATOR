@@ -1,0 +1,6 @@
+C:\Users\kiral\OneDrive\Masaüstü\CREATE QR CODE\QR CODE.exe
+C:\Users\kiral\OneDrive\Masaüstü\CREATE QR CODE\QR CODE.dll
+C:\Users\kiral\OneDrive\Masaüstü\CREATE QR CODE\QR CODE.deps.json
+C:\Users\kiral\OneDrive\Masaüstü\CREATE QR CODE\QR CODE.runtimeconfig.json
+C:\Users\kiral\OneDrive\Masaüstü\CREATE QR CODE\QR CODE.pdb
+C:\Users\kiral\OneDrive\Masaüstü\CREATE QR CODE\QRCoder.dll
